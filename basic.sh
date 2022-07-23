@@ -25,7 +25,7 @@ __________________×______________________
   Contact : +8801841268478
 __________________×______________________"
 
-echo " WAIT UNTIL THE INSTALLATION COMPLETE"
+echo "WAIT UNTIL THE INSTALLATION COMPLETE"
 
 figlet countdown
 figlet 3
