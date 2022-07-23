@@ -8,4 +8,4 @@ bash basic.sh
 
 
 
-thanks for using my tool☺️☺️
+
