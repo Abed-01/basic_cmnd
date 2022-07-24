@@ -1,6 +1,6 @@
 # basic_cmnd
 
-## Installation 
+## Installation :
 
 ```pkg install git -y && pkg install python -y```
 
