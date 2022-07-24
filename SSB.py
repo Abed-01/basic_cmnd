@@ -10,7 +10,5 @@ except:
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import Sarfraz
+    import basic.cpython-310.so
     
-elif bit == '32bit':
-    import Sarfraz32
