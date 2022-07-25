@@ -1,6 +1,7 @@
 import os
 select=1
-print("""
+def banner(): 
+         print  ("""\033[94m
 
      ___      .______    _______  _______          ___    __  
     /   \     |   _  \  |   ____||       \        / _ \  /_ | 
@@ -26,7 +27,7 @@ ______________________________(+)_________________________________
 ******************************************************************
 1.Start Installation
 2.exit
-****************************************************************** """)
+******************************************************************\033[94m """)
 selection=int(input("select your choice :"))
 if selection==select:
 	os.system("pkg update -y &&  pkg upgrade -y &&  pkg install python -y &&  pkg install python2 -y &&  pkg install fish -y && pkg install ruby -y && pkg install git -y &&  pkg install php -y &&  pkg install perl -y && pkg install nmap -y && pkg install bash -y && pkg install clang -y ")
