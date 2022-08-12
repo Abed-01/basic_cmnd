@@ -3,6 +3,7 @@
 ## Installation :
 
 ```pkg install git -y && pkg install python -y```
+
 ```pip install rich```
 
 ```git clone https://github.com/Abed-01/basic_cmnd.git```
